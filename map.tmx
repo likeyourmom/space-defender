@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="72" tilewidth="32" tileheight="32">
+ <layer name="background" width="128" height="72">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwbkAAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="128" height="72">
+  <object name="jupiter" x="532" y="316" width="640" height="480"/>
+  <object name="uranus" x="2100" y="836" width="640" height="640"/>
+  <object name="neptune" x="412" y="1708" width="480" height="480"/>
+  <object name="saturn" x="3648" y="1824" width="320" height="320"/>
+  <object name="hero" x="3164" y="276" width="128" height="128"/>
+ </objectgroup>
+</map>
